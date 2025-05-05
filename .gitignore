@@ -12,5 +12,4 @@ env/
 
 *.log
 *.csv
-*.json
 *.sqlite

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "fic-01",
+    "isbn": "978-0544003415",
+    "nombre": "El Hobbit",
+    "prestado": null
+  },
+  {
+    "id": "fic-02",
+    "isbn": "978-0321765723",
+    "nombre": "El Señor de los Anillos",
+    "prestado": null
+  },
+  {
+    "id": "nov-03",
+    "isbn": "978-8497595839",
+    "nombre": "Orgullo y prejuicio",
+    "prestado": "SOC-2025"
+  },
+  {
+    "id": "fic-04",
+    "isbn": "978-8408186981",
+    "nombre": "Juego de Tronos",
+    "prestado": "LIT-1042"
+  },
+  {
+    "id": "cien-05",
+    "isbn": "978-8466338141",
+    "nombre": "1984",
+    "prestado": null
+  },
+  {
+    "id": "nov-06",
+    "isbn": "978-8420471839",
+    "nombre": "Cien años de soledad",
+    "prestado": "HUM-3078"
+  }
+]

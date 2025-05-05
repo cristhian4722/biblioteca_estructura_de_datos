@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ele-01",
+    "nit": "456",
+    "nombre": "Carlos Diaz",
+    "prestamo": "LIB-2024"
+  },
+  {
+    "id": "ele-02",
+    "nit": "789",
+    "nombre": "Juan Perez",
+    "prestamo": null
+  },
+  {
+    "id": "ele-03",
+    "nit": "101",
+    "nombre": "Rosa Castallanos",
+    "prestamo": "LIB-101"
+  },
+  {
+    "id": "ele-04",
+    "nit": "202",
+    "nombre": "Ivan Mora",
+    "prestamo": null
+  },
+  {
+    "id": "ele-05",
+    "nit": "303",
+    "nombre": "Angel Rios",
+    "prestamo": "LIB-303"
+  }
+]
