@@ -34,5 +34,65 @@
     "isbn": "978-8420471839",
     "nombre": "Cien años de soledad",
     "prestado": "HUM-3078"
+  },
+  {
+    "id": "fic-07",
+    "isbn": "978-8497594258",
+    "nombre": "El Hobbit 2",
+    "prestado": "LIT-2095"
+  },
+  {
+    "id": "cien-08",
+    "isbn": "978-8420467122",
+    "nombre": "Crónica de una muerte anunciada",
+    "prestado": null
+  },
+  {
+    "id": "nov-09",
+    "isbn": "978-8466338592",
+    "nombre": "Rebelión en la granja",
+    "prestado": "HUM-4156"
+  },
+  {
+    "id": "fic-10",
+    "isbn": "978-8408186998",
+    "nombre": "Choque de Reyes",
+    "prestado": null
+  },
+  {
+    "id": "cien-11",
+    "isbn": "978-8466337205",
+    "nombre": "Un mundo feliz",
+    "prestado": "LIT-3321"
+  },
+  {
+    "id": "nov-12",
+    "isbn": "978-8420471846",
+    "nombre": "El amor en los tiempos del cólera",
+    "prestado": null
+  },
+  {
+    "id": "fic-13",
+    "isbn": "978-8408187001",
+    "nombre": "Tormenta de Espadas",
+    "prestado": "HUM-5243"
+  },
+  {
+    "id": "cien-14",
+    "isbn": "978-8466337212",
+    "nombre": "Fahrenheit 451",
+    "prestado": null
+  },
+  {
+    "id": "nov-15",
+    "isbn": "978-8420471853",
+    "nombre": "El otoño del patriarca",
+    "prestado": "LIT-4479"
+  },
+  {
+    "id": "fic-16",
+    "isbn": "978-8408187018",
+    "nombre": "Festín de Cuervos",
+    "prestado": null
   }
 ]

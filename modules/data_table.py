@@ -11,11 +11,13 @@ class DataTable:
         self.id_row = None
         self.view_name = view_name
         self.app = app
+        self.recomend = None
 
     def on_row_selected(self, event):
         selected_item = self.table.focus()
         values = self.table.item(selected_item, 'values')
         if isinstance(values, tuple):
+            self.recomend = values[0]
             if self.view_name == 'users':
                 self.id_row = values[0]
             else:
